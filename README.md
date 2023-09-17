@@ -57,4 +57,15 @@ Ans - Well, because it is still a very difficult and computationally intensive t
 
 ## The Starbucks Website Analysis
 
-* The website was designed in such a way to pull all the customers to its Rewards program , which makes intutive sense since Starbucks is earning free money from the intrest . 
+* The website was designed in such a way to pull all the customers to its Rewards program , which makes intutive sense since Starbucks is earning free money from the intrest .
+  
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/d174a74b-e9aa-4673-bf1f-b69ef68093c9)
+
+* The prices weren't revealed until the billing time, since the feeling of "loosing" money would drive away customers.
+
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/bd2f5ef0-8b55-4ec7-adcd-f06f9086b373)
+
+* Simple, and clear cut message to anyone who opens the rewards tab. Luring them to join rewards program. Marketing in its true sense.
+
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/c56cbacf-6848-4f34-87a0-517aa40e802d)
+
