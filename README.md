@@ -54,6 +54,12 @@ Ans - Well, because it is still a very difficult and computationally intensive t
 * One cluster had people who are __moderate__ customers, with an okayish amount of spend, and I feel it is best to leave them as it is, and give them __offers only when their frequency__ seems to have __decreased__.
 * The last cluster had no appreciable features, some of them were __"ghosts"__ who had come only once or twice, and had very irregular patterns. Which , is a gentle remainder that all things which make __sense mathematically__ do __not__ have to make __business sense__ .
 
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/babab58e-3ec6-4c77-b3a0-4b10b0525ebc)
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/3da84529-d62f-4831-8778-3034a2e19528)
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/1003b44f-c780-4c21-8638-bfa86266fbc6)
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/ceb2eb5a-fbbc-4955-8559-ba2c7f91ae32)
+![image](https://github.com/ayush-agarwal-0502/Starbucks-Customer-Segmentation/assets/86561124/541dd772-bcee-4206-83fc-9fd2b48fbc6b)
+
 
 ## The Starbucks Website Analysis
 
