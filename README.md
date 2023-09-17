@@ -1,5 +1,5 @@
 # Starbucks-Customer-Segmentation
-Customer segmentation for Starbucks reward program members on the basis of their reactions to offers, to further design marketing strategies accordingly 
+Customer segmentation for Starbucks reward program members on the basis of their reactions to offers, to further assist marketing team design marketing strategies accordingly 
 
 I watched the netflix documentary __"The Social Dilemma"__ and got fascinated by how marketing strategies use Data Science in our era of Big Data.
 
